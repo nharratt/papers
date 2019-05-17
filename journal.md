@@ -1,6 +1,6 @@
-The Lonely Challenges of Learning GitHub
+The Collaborative Challenges of Learning GitHub
 
-Author - Niki Harratt
+Author - Niki Harratt & Paper W John
 
 INTRODUCTION
 
@@ -9,3 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Nisl vel pretium lectus quam id. Eu non diam phasellus vestibulum lorem sed risus ultricies. Risus at ultrices mi tempus imperdiet. Lacinia quis vel eros donec ac. Nascetur ridiculus mus mauris vitae. Ut morbi tincidunt augue interdum velit. Non nisi est sit amet facilisis magna. Ipsum nunc aliquet bibendum enim facilisis. Quis hendrerit dolor magna eget est. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae.(2) Sollicitudin ac orci phasellus egestas tellus. Rhoncus mattis rhoncus urna neque viverra. Habitant morbi tristique senectus et. Pharetra diam sit amet nisl suscipit. Felis eget nunc lobortis mattis aliquam. Vitae tempus quam pellentesque nec nam aliquam sem. Proin fermentum leo vel orci porta non pulvinar neque. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius. Arcu felis bibendum ut tristique et.
 
 Magna eget est lorem ipsum dolor sit amet consectetur adipiscing. Tristique senectus et netus et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Pulvinar proin gravida hendrerit lectus. Egestas egestas fringilla phasellus faucibus scelerisque. Dolor sit amet consectetur adipiscing elit duis. In fermentum et sollicitudin ac orci. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi. Eget dolor morbi non arcu risus quis varius quam quisque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Vitae suscipit tellus mauris a. Ac turpis egestas sed tempus urna et. Aliquet sagittis id consectetur purus ut faucibus. Risus quis varius quam quisque id diam vel quam. Volutpat lacus laoreet non curabitur gravida arcu ac tortor. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Nisl purus in mollis nunc sed id semper risus.
+
+SIMULATIONS
+
+Sit amet consectetur adipiscing elit duis. Mauris rhoncus aenean vel elit scelerisque mauris. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Sagittis nisl rhoncus mattis rhoncus urna neque. Bibendum est ultricies integer quis. In pellentesque massa placerat duis. Senectus et netus et malesuada. Magna etiam tempor orci eu lobortis elementum nibh tellus. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Interdum varius sit amet mattis vulputate enim nulla aliquet. Ipsum a arcu cursus vitae.
