@@ -1,4 +1,4 @@
-The challenges of Learning GitHub
+The Lonely Challenges of Learning GitHub
 
 Author - Niki Harratt
 
