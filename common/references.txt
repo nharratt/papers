@@ -1,1 +1,2 @@
 1 - http://gcapes.github.io/git-course/02-local/
+2 - http://gcapes.github.io/git-course/03-history/
