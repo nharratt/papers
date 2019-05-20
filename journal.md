@@ -2,6 +2,10 @@ The Collaborative Challenges of Learning GitHub
 
 Author - Paper W John (University of Manchester) & Niki Harratt (University of Manchester)
 
+ABSTRACT
+
+Overview of the paper that's not quite an introduction.
+
 INTRODUCTION
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Semper viverra nam libero justo laoreet. Felis imperdiet proin fermentum leo vel orci porta non. Sociis natoque penatibus et magnis dis. In nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor eu augue ut lectus arcu bibendum at. Enim nunc faucibus a pellentesque sit amet porttitor. Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Nunc non blandit massa enim nec dui nunc. Ultrices sagittis orci a scelerisque. Quam adipiscing vitae proin sagittis. Enim diam vulputate ut pharetra sit. (1)
