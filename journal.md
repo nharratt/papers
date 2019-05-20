@@ -4,7 +4,7 @@ Author - Paper W John (University of Manchester) & Niki Harratt (University of M
 
 ABSTRACT
 
-Overview of the paper that's not quite an introduction.
+An abstract summarizes, usually in one paragraph of 300 words or less, the major aspects of the entire paper in a prescribed sequence that includes: 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions.
 
 INTRODUCTION
 
