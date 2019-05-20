@@ -1,6 +1,6 @@
 The Collaborative Challenges of Learning GitHub
 
-Author - Niki Harratt & Paper W John
+Author - Paper W John & Niki Harratt
 
 INTRODUCTION
 
