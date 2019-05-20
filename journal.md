@@ -1,6 +1,6 @@
 The Collaborative Challenges of Learning GitHub
 
-Author - Niki Harratt & Paper W John
+Author - Paper W John (University of Manchester) & Niki Harratt (University of Manchester)
 
 INTRODUCTION
 
@@ -32,7 +32,7 @@ Here are some figures and diagrams, etc.
 
 CONCLUSIONS
 
-Here are some useful updates and comclusions to this body of work. 
+Here are some useful updates and conclusions to this body of work.
 
 
 
