@@ -28,7 +28,11 @@ Some results would go here.
 
 FIGURES
 
-Here are some figures and diagrams, etc. 
+Here are some figures and diagrams, etc.
+
+CONCLUSIONS
+
+Here are some useful updates and comclusions to this body of work. 
 
 
 
