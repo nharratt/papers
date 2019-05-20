@@ -24,7 +24,13 @@ Vestibulum morbi blandit cursus risus at ultrices. Feugiat nibh sed pulvinar pro
 
 RESULTS
 
-Some results would go here. 
+Some results would go here.
+
+FIGURES
+
+Here are some figures and diagrams, etc. 
+
+
 
 
 
